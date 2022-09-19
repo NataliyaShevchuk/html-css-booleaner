@@ -34,7 +34,10 @@ h1{
     margin-bottom: 20px;
 }
 
-p{
+.fonte{
     margin: 0%;
     font-size: smaller;
+}
+.evidenziato{
+    background-color: yellow;
 }
