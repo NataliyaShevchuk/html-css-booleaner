@@ -69,3 +69,25 @@ td{
 .celestino1{
     background-color: #B1E5F2;
 }
+
+.una{
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    background-image: url(img/monitor.jpg); 
+    width: 312px;
+    height: 208px;
+    margin-top: 20px;
+    line-height: 50px;
+}
+
+.due{
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    background-image: url(img/graph.jpg);
+    width: 311px;
+    height: 207px;
+    margin-top: 20px;
+    line-height: 50px;
+}
