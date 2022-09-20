@@ -31,7 +31,13 @@ h1{
 .data{
     margin: 0px;
     color: #959595;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+.immagine{
+    width: 49%;
+    height: 500px;
+    object-fit: cover;
 }
 
 .fonte{
