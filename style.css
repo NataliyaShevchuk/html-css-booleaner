@@ -7,13 +7,13 @@ body{
     height: 80px;
     background-color: #4ea0ff;
     background-image: url(img/pattern.png);
-    background-size: auto 80px;
+    background-size: auto 200%;
     
 }
 
 .logo{
-    margin-top: 40px;
-    height: 40px;   
+    margin-top: 30px;
+    height: 45px;   
 }
 
 h1{
